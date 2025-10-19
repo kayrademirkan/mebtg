@@ -113,7 +113,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ## 📞 İletişim
 
 - **Geliştirici**: Kayra
-- **GitHub**: [@kayra](https://github.com/kayra)
+- **GitHub**: [@kayrademirkan](https://github.com/kayrademirkan)
 
 ## 🙏 Teşekkürler
 
