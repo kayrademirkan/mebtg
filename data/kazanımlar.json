@@ -1,0 +1,170 @@
+{
+  "Biyoloji": {
+    "12": {
+      "1": "12.1.1.1 Hücre bölünmesinin önemini açıklar.",
+      "2": "12.1.1.2 Mitoz bölünmenin evrelerini açıklar.",
+      "3": "12.1.1.3 Mayoz bölünmenin önemini açıklar.",
+      "4": "12.1.1.4 DNA'nın kendini eşlemesini açıklar.",
+      "5": "12.1.1.5 Protein sentezinin aşamalarını açıklar.",
+      "6": "12.1.1.6 Genetik çeşitliliğin önemini açıklar.",
+      "7": "12.1.1.7 Mutasyonların etkilerini açıklar.",
+      "8": "12.1.1.8 Evrim teorisini açıklar."
+    },
+    "11": {
+      "1": "11.1.1.1 Hücre organellerinin görevlerini açıklar.",
+      "2": "11.1.1.2 Enzimlerin çalışma mekanizmasını açıklar.",
+      "3": "11.1.1.3 ATP'nin önemini açıklar.",
+      "4": "11.1.1.4 Fotosentezin önemini açıklar.",
+      "5": "11.1.1.5 Solunumun önemini açıklar.",
+      "6": "11.1.1.6 Beslenme ilişkilerini açıklar.",
+      "7": "11.1.1.7 Ekosistemlerin önemini açıklar.",
+      "8": "11.1.1.8 Çevre kirliliğinin etkilerini açıklar."
+    },
+    "10": {
+      "1": "10.1.1.1 Hücre yapısını açıklar.",
+      "2": "10.1.1.2 Dokuların önemini açıklar.",
+      "3": "10.1.1.3 Organ sistemlerini açıklar.",
+      "4": "10.1.1.4 Homeostazın önemini açıklar.",
+      "5": "10.1.1.5 Hormonların görevlerini açıklar.",
+      "6": "10.1.1.6 Sinir sisteminin önemini açıklar.",
+      "7": "10.1.1.7 Duyu organlarının çalışmasını açıklar.",
+      "8": "10.1.1.8 Bağışıklık sisteminin önemini açıklar."
+    },
+    "9": {
+      "1": "9.1.1.1 Canlıların ortak özelliklerini açıklar.",
+      "2": "9.1.1.2 Canlıların sınıflandırılmasını açıklar.",
+      "3": "9.1.1.3 Mikroorganizmaların önemini açıklar.",
+      "4": "9.1.1.4 Bitkilerin önemini açıklar.",
+      "5": "9.1.1.5 Hayvanların önemini açıklar.",
+      "6": "9.1.1.6 Mantarların önemini açıklar.",
+      "7": "9.1.1.7 Virüslerin önemini açıklar.",
+      "8": "9.1.1.8 Canlılar arası ilişkileri açıklar."
+    }
+  },
+  "Kimya": {
+    "12": {
+      "1": "12.2.1.1 Atom yapısını açıklar.",
+      "2": "12.2.1.2 Periyodik tabloyu açıklar.",
+      "3": "12.2.1.3 Kimyasal bağları açıklar.",
+      "4": "12.2.1.4 Elektrokimya uygulamalarını örneklerle açıklar.",
+      "5": "12.2.1.5 Organik bileşikleri açıklar.",
+      "6": "12.2.1.6 Polimerleri açıklar.",
+      "7": "12.2.1.7 Kimyasal dengeyi açıklar.",
+      "8": "12.2.1.8 Asit-baz dengelerini açıklar."
+    },
+    "11": {
+      "1": "11.2.1.1 Maddenin hallerini açıklar.",
+      "2": "11.2.1.2 Gazların özelliklerini açıklar.",
+      "3": "11.2.1.3 Çözeltileri açıklar.",
+      "4": "11.2.1.4 Kimyasal tepkimeleri açıklar.",
+      "5": "11.2.1.5 Termokimyayı açıklar.",
+      "6": "11.2.1.6 Kimyasal kinetiği açıklar.",
+      "7": "11.2.1.7 Kimyasal dengeyi açıklar.",
+      "8": "11.2.1.8 Asit-baz teorilerini açıklar."
+    },
+    "10": {
+      "1": "10.2.1.1 Atom teorilerini açıklar.",
+      "2": "10.2.1.2 Elektron dağılımını açıklar.",
+      "3": "10.2.1.3 Periyodik özellikleri açıklar.",
+      "4": "10.2.1.4 Kimyasal bağ türlerini açıklar.",
+      "5": "10.2.1.5 Molekül geometrisini açıklar.",
+      "6": "10.2.1.6 İnteraksiyonları açıklar.",
+      "7": "10.2.1.7 Kimyasal formülleri açıklar.",
+      "8": "10.2.1.8 Kimyasal tepkimeleri açıklar."
+    },
+    "9": {
+      "1": "9.2.1.1 Maddenin özelliklerini açıklar.",
+      "2": "9.2.1.2 Atom ve molekül kavramlarını açıklar.",
+      "3": "9.2.1.3 Element ve bileşikleri açıklar.",
+      "4": "9.2.1.4 Karışımları açıklar.",
+      "5": "9.2.1.5 Ayırma tekniklerini açıklar.",
+      "6": "9.2.1.6 Kimyasal değişimleri açıklar.",
+      "7": "9.2.1.7 Kimyasal tepkimeleri açıklar.",
+      "8": "9.2.1.8 Kimyanın günlük yaşamdaki önemini açıklar."
+    }
+  },
+  "Fizik": {
+    "12": {
+      "1": "12.3.1.1 Elektrik alanını açıklar.",
+      "2": "12.3.1.2 Manyetik alanı açıklar.",
+      "3": "12.3.1.3 Elektromanyetik indüksiyonu açıklar.",
+      "4": "12.3.1.4 Alternatif akımı açıklar.",
+      "5": "12.3.1.5 Elektromanyetik dalgaları açıklar.",
+      "6": "12.3.1.6 Optik sistemleri açıklar.",
+      "7": "12.3.1.7 Modern fiziği açıklar.",
+      "8": "12.3.1.8 Nükleer fiziği açıklar."
+    },
+    "11": {
+      "1": "11.3.1.1 Hareketi açıklar.",
+      "2": "11.3.1.2 Kuvvet ve hareketi açıklar.",
+      "3": "11.3.1.3 Enerjiyi açıklar.",
+      "4": "11.3.1.4 Momentumu açıklar.",
+      "5": "11.3.1.5 Dönme hareketini açıklar.",
+      "6": "11.3.1.6 Harmonik hareketi açıklar.",
+      "7": "11.3.1.7 Dalga hareketini açıklar.",
+      "8": "11.3.1.8 Ses dalgalarını açıklar."
+    },
+    "10": {
+      "1": "10.3.1.1 Ölçme ve birimleri açıklar.",
+      "2": "10.3.1.2 Vektörleri açıklar.",
+      "3": "10.3.1.3 Hareketi açıklar.",
+      "4": "10.3.1.4 Kuvveti açıklar.",
+      "5": "10.3.1.5 Enerjiyi açıklar.",
+      "6": "10.3.1.6 İş ve gücü açıklar.",
+      "7": "10.3.1.7 Basit makineleri açıklar.",
+      "8": "10.3.1.8 Basıncı açıklar."
+    },
+    "9": {
+      "1": "9.3.1.1 Fiziğin doğasını açıklar.",
+      "2": "9.3.1.2 Ölçme ve birimleri açıklar.",
+      "3": "9.3.1.3 Hareketi açıklar.",
+      "4": "9.3.1.4 Kuvveti açıklar.",
+      "5": "9.3.1.5 Enerjiyi açıklar.",
+      "6": "9.3.1.6 Isı ve sıcaklığı açıklar.",
+      "7": "9.3.1.7 Elektriği açıklar.",
+      "8": "9.3.1.8 Manyetizmayı açıklar."
+    }
+  },
+  "Matematik": {
+    "12": {
+      "1": "12.4.1.1 Limit kavramını açıklar.",
+      "2": "12.4.1.2 Türev kavramını açıklar.",
+      "3": "12.4.1.3 İntegral kavramını açıklar.",
+      "4": "12.4.1.4 Fonksiyonları açıklar.",
+      "5": "12.4.1.5 Trigonometriyi açıklar.",
+      "6": "12.4.1.6 Logaritmayı açıklar.",
+      "7": "12.4.1.7 Olasılığı açıklar.",
+      "8": "12.4.1.8 İstatistiği açıklar."
+    },
+    "11": {
+      "1": "11.4.1.1 Fonksiyonları açıklar.",
+      "2": "11.4.1.2 Trigonometriyi açıklar.",
+      "3": "11.4.1.3 Logaritmayı açıklar.",
+      "4": "11.4.1.4 Dizileri açıklar.",
+      "5": "11.4.1.5 Serileri açıklar.",
+      "6": "11.4.1.6 Limit kavramını açıklar.",
+      "7": "11.4.1.7 Türev kavramını açıklar.",
+      "8": "11.4.1.8 İntegral kavramını açıklar."
+    },
+    "10": {
+      "1": "10.4.1.1 Sayı sistemlerini açıklar.",
+      "2": "10.4.1.2 Fonksiyonları açıklar.",
+      "3": "10.4.1.3 Trigonometriyi açıklar.",
+      "4": "10.4.1.4 Logaritmayı açıklar.",
+      "5": "10.4.1.5 Dizileri açıklar.",
+      "6": "10.4.1.6 Olasılığı açıklar.",
+      "7": "10.4.1.7 İstatistiği açıklar.",
+      "8": "10.4.1.8 Geometriyi açıklar."
+    },
+    "9": {
+      "1": "9.4.1.1 Sayı sistemlerini açıklar.",
+      "2": "9.4.1.2 Cebirsel ifadeleri açıklar.",
+      "3": "9.4.1.3 Denklemleri açıklar.",
+      "4": "9.4.1.4 Eşitsizlikleri açıklar.",
+      "5": "9.4.1.5 Fonksiyonları açıklar.",
+      "6": "9.4.1.6 Geometriyi açıklar.",
+      "7": "9.4.1.7 Trigonometriyi açıklar.",
+      "8": "9.4.1.8 Olasılığı açıklar."
+    }
+  }
+}
