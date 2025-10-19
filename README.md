@@ -2,6 +2,8 @@
 
 Telegram üzerinden öğretmenlerin sınıf ve branş seçimine göre haftalık MEB kazanımlarını gösteren basit bir bot.
 
+> ⚠️ **ÖNEMLİ NOT**: Bu bot **test amaçlı** geliştirilmiştir. Tam müfredat henüz eklenmemiştir ve **eğitilmesi gerekmektedir**. İsteğe göre genişletilebilir veya proje kullanılabilir.
+
 ## 🎯 Özellikler
 
 - 📚 **Sınıf Seçimi**: 9, 10, 11, 12. sınıflar
@@ -114,6 +116,26 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 - **Geliştirici**: Kayra
 - **GitHub**: [@kayrademirkan](https://github.com/kayrademirkan)
+
+## 💝 Bağış Yapın
+
+Bu proje açık kaynak olarak geliştirilmiştir. Eğer projeyi beğendiyseniz ve geliştirilmesine katkıda bulunmak istiyorsanız:
+
+- ⭐ **GitHub'da yıldız verin**
+- 🍴 **Fork yapın ve katkıda bulunun**
+- 🐛 **Hata bildirin**
+- 💡 **Önerilerinizi paylaşın**
+
+### 🚀 Proje Geliştirme
+
+Bu bot test amaçlı geliştirilmiştir. Tam müfredatın eklenmesi ve geliştirilmesi için:
+
+- MEB müfredat verilerinin tam olarak eklenmesi
+- Daha fazla branş ve sınıf desteği
+- Gelişmiş özellikler (PDF çıktı, takvim entegrasyonu vb.)
+- Kullanıcı arayüzü iyileştirmeleri
+
+**İsteğe göre proje genişletilebilir ve kullanılabilir!**
 
 ## 🙏 Teşekkürler
 
